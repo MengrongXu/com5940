@@ -1,3 +1,4 @@
 Assignment 1 
 
-<a herf="http://dev-gugugua.pantheonsite.io">The Landing Page in Drupal</a>
+
+<li><a href="http://dev-gugugua.pantheonsite.io/">The Landing Page in Drupal</a></li>
