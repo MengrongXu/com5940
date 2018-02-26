@@ -8,7 +8,7 @@
 <p>3. User get 20 points after posting a new game idea. </p>
 </br>
 <h3>The points transaction is shown as the following picture. </h3>
-<img src="tran.jpeg">
+<img src="1.jpeg">
 </br>
 <h3>You can also try with the following id & pw </h3>
 <p>user name: bernard1</p>
