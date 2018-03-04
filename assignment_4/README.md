@@ -7,6 +7,6 @@
 <h4>pw: pass</h4>
 
 <br/>
-<h4>Please check <a href="http://dev-gugugua.pantheonsite.io/node/44/edit?destination=admin/content">here</a> to edit the Content. And <a href="http://dev-gugugua.pantheonsite.io/admin/structure/views/view/demo/edit">this</a> is the edit page for the button.</h4>
+<h4>Please check <a href="http://dev-gugugua.pantheonsite.io/node/44/edit?destination=admin/content">here</a> to edit the Content and the Image. And <a href="http://dev-gugugua.pantheonsite.io/admin/structure/views/view/demo/edit">this</a> is the editing page for the button.</h4>
 <h4>You can also click <a href="http://dev-gugugua.pantheonsite.io/admin/structure/menu/manage/main-menu">here</a> to change the menu.</h4>
 
