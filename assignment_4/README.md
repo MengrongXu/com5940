@@ -2,7 +2,7 @@
 
 <h4>I made changes to the original "header" block in this template and also replaced the navigation with drupal menu. </h4>
 <h4> This is my <a href="http://dev-gugugua.pantheonsite.io">drupal homepage. </a></h4>
-<h4>And you can login <a href="http://dev-gugugua.pantheonsite.io">here</a> with the following <strong>user name and pw</strong>.</h4>
+<h4>And you can login <a href="http://dev-gugugua.pantheonsite.io/user/login">here</a> with the following <strong>user name and pw</strong>.</h4>
 <h4>user name: bernard1</h4>
 <h4>pw: pass</h4>
 
