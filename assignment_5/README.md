@@ -5,8 +5,8 @@
 <h4>user name: bernard1</h4>
 <h4>pw: pass</h4>
 
+</br>
 <h4>There are interesting activities and various umeshu for consumers to choose from.</h4>
-<br/>
 <h4> You can only sign up for one activity at a time.After registering activities or adding products, you can check <a href="http://dev-gugugua.pantheonsite.io/cart">here</a> to see what you have in the shopping cart and finish the purchasing by clicking checkout button. </h4>
 
 
